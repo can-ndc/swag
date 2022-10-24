@@ -6,8 +6,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/swaggo/swag/example/celler/httputil"
-	"github.com/swaggo/swag/example/celler/model"
+	"github.com/can-ndc/swag/example/celler/httputil"
+	"github.com/can-ndc/swag/example/celler/model"
 )
 
 // ShowBottle godoc

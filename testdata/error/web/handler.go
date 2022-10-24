@@ -1,7 +1,7 @@
 package web
 
 import (
-	"github.com/swaggo/swag/testdata/error/errors"
+	"github.com/can-ndc/swag/testdata/error/errors"
 )
 
 type CrossErrors errors.Errors
